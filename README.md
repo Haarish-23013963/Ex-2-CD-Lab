@@ -1,5 +1,5 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
-# NAME: HAARISH V
+# Date: 24/04/2025
 # REGNO: 212223230067
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
